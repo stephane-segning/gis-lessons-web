@@ -87,7 +87,7 @@
     "@types/react-dom": "^19.0.2",
     "@types/react-helmet": "^6",
     "@types/reveal.js": "^5.0.4",
-    "@typescript-eslint/eslint-plugin": "^8.1.0",
+    "@typescript-eslint/eslint-plugin": "^8.26.1",
     "@typescript-eslint/parser": "^8.1.0",
     "@vite-pwa/assets-generator": "^0.2.6",
     "@vitejs/plugin-legacy": "^6.0.0",
