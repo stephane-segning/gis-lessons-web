@@ -95,7 +95,7 @@
     "@vitest/coverage-v8": "2.1.8",
     "@vitest/ui": "2.1.8",
     "@vymalo/ui-preset": "^1.0.7",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.21",
     "buffer": "^6.0.3",
     "commander": "^12.1.0",
     "cssnano": "^7.0.6",
